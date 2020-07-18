@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-   I'm [Nirikshan Bhusal](https://www.nirikshan.com.np/) super passionate self-taught visionary technologist from Nepal. I am love learning , creating and searching.
+   I'm [Nirikshan Bhusal](https://www.nirikshan.com.np/) super passionate self-taught visionary technologist from Nepal. I love learning , creating and searching.
 
 
 - 🔭 I’m currently working on common Enterprise resource planning (ERP)  of 3 Internet service Provider of Nepal alone.
